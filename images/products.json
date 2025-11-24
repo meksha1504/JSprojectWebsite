@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Milk",
+        "price": "Rs.35",
+        "image": "images/milk.png"
+    },
+    {
+        "id": 2,
+        "name": "Bread",
+        "price": "Rs.40",
+        "image": "images/bread.png"
+    },
+    {
+        "id": 3,
+        "name": "Coffee",
+        "price": "Rs.211",
+        "image": "images/coffee.png"
+    },
+    {
+        "id": 4,
+        "name": "Oil",
+        "price": "Rs.300",
+        "image": "images/oil.png"
+    },
+    {
+        "id": 5,
+        "name": "Rice",
+        "price": "Rs.749",
+        "image": "images/rice.png"
+    },
+    {
+        "id": 6,
+        "name": "Sugar",
+        "price": "Rs.50",
+        "image": "images/sugar.png"
+    },
+    {
+        "id": 7,
+        "name": "Tea",
+        "price": "Rs.640",
+        "image": "images/tea.png"
+    },
+    {
+        "id": 8,
+        "name": "Wheat flour",
+        "price": "Rs.200",
+        "image": "images/wheat flour.png"
+    }
+
+]
