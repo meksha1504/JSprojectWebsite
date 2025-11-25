@@ -336,8 +336,12 @@ h4 {
 .item{
     display: flex;
     align-items: center;
-    gap: .9rem;
+    gap: 1rem;
     padding: .7rem 1rem;
+}
+
+.item .detail{
+    flex: 2;
 }
 
 .cart-list .item:nth-child(even){
